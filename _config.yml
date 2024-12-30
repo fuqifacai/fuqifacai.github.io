@@ -1,1 +1,4 @@
 baseurl: /github_blog
+theme: jekyll-theme-minimal
+title: 字形绘梦
+description: AIGC下的图文平台

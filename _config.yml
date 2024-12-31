@@ -74,7 +74,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "做数字伴侣是我的理念"
-sidebar-avatar: https://www.shxcj.com/wp-content/uploads/2024/09/ce02920ed3626eab1e49c5be6156a7f.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://www.shxcj.com/wp-content/uploads/2024/12/2024123101542283.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags

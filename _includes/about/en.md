@@ -20,6 +20,7 @@ Has unique insights and persistence in software development. Participated in clo
 
 [Streaming framework based on webrtc](https://www.shxcj.com/archives/category/allinovation/innovation)
 
+[PhotoTalk](https://www.shxcj.com/archives/category/allinovation/phototalk)
 
 ## External links
 [Paragoger AIGC camp](https://www.2img.ai)

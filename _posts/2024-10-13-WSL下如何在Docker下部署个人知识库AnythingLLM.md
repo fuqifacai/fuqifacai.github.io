@@ -5,8 +5,6 @@ author:       "Ramendeus"
 header-style: text
 catalog:      true
 tags:
-    - 字形绘梦
-    - 微信小程序
     - AIGC
     - RAG
 ---

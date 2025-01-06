@@ -5,8 +5,10 @@ author:       "Ramendeus"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - 字形绘梦
+    - 微信小程序
+    - AIGC
+    - RAG
 ---
 [访问 2img.ai 官网以获取更多AI/AIGC信息](https://2img.ai)
 

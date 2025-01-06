@@ -4,7 +4,7 @@ SEOTitle: 拉达曼迪斯 | Ramendus Studio
 header-img: img/home-bg.jpg
 email: chris@51arena.com
 description: "明月清风谁与共 高山流水少知音"
-keyword: "字形绘梦 Ramendeus 青龙 青仓 AIGC RAG 大模型 C++ 编程 "
+keyword: "字形绘梦 Ramendeus 青龙 青仓 AIGC RAG 大模型 C++ 编程 LLM AI Github 福气发财 fuqifacai 上海 马桥 会长 微信小程序 RASD RA Studio"
 url: "https://www.2img.ai" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username: an-jing-84-45-44
+zhihu_username: ramendeus
 github_username: fuqifacai
 #twitter_username: yourname
 #facebook_username:  yourname
@@ -73,7 +73,7 @@ ba_track_id: 8b1795d518a8d03043c4243ee0d96113
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "做数字伴侣是我的理念"
+sidebar-about-description: "做一家小而美的软件研发公司"
 sidebar-avatar: https://www.shxcj.com/wp-content/uploads/2024/12/2024123101542283.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

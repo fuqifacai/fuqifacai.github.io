@@ -68,8 +68,8 @@ netease_comment: false
 ba_track_id: 8b1795d518a8d03043c4243ee0d96113
 
 # Google Analytics
-#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-#ga_domain: 2img.ai
+ga_track_id: "G-CGLS36Z92J" # Format: UA-xxxxxx-xx
+ga_domain: 2img.ai
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.

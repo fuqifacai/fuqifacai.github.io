@@ -73,7 +73,7 @@ ga_domain: 2img.ai
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "做一家小而美的软件研发公司"
+sidebar-about-description: "做一家小而美的软件研发公司,有兴趣请访问 https://2img.ai "
 sidebar-avatar: https://www.shxcj.com/wp-content/uploads/2024/12/2024123101542283.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

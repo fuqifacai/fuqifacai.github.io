@@ -11,7 +11,13 @@ tags:
 [访问 2img.ai 官网以获取更多AI/AIGC信息](https://2img.ai)
 
 最近发现使用WSL非常方便。不仅可以不用实体机器安装Linux，同时也可以避免额外的浪费空间。因此打算部署一个局域网内的个人知识库体系，这样就可以建立一个强大的知识和大模型体系，真正用到AI的能力。
-小红书关注我 ![](/img/a.jpg)
+[访问 个人技术博客: fuqifai.github.io](https://fuqifai.github.io)
+
+本文大部分配图使用微信小程序【字形绘梦】免费生成。
+![](/img/小程序码.png)
+
+AIGC技术讨论群
+![](/img/RA群永久二维码.png)
 
 首先安装WSL
 安装WSL，一般的教程是直接用管理员打开CMD或者PowerShell，执行命令

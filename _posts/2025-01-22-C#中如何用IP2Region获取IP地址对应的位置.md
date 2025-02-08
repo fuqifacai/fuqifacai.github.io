@@ -11,8 +11,13 @@ tags:
 ---
 
 [访问 2img.ai 官网以获取更多AI/AIGC信息](https://2img.ai)
+[访问 个人技术博客: fuqifai.github.io](https://fuqifai.github.io)
+
 本文大部分配图使用微信小程序【字形绘梦】免费生成。
-fuqifai.github.io
+![](/img/小程序码.png)
+
+AIGC技术讨论群
+![](/img/RA群永久二维码.png)
 
 最近需要用到根据IP地址，查询对应的城市位置。找了一些网页资料，结果很差，尤其是CSDN，不仅文章内容质量低下，浪费了很多时间，代码不可用。而且还各种限制。所以本文更新使用方法后，也不会在CSDN上发布。
 

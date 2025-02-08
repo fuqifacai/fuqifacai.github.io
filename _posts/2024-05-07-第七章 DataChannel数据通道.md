@@ -11,8 +11,13 @@ tags:
 ---
 
 [访问 2img.ai 官网以获取更多AI/AIGC信息](https://2img.ai)
+[访问 个人技术博客: fuqifai.github.io](https://fuqifai.github.io)
+
 本文大部分配图使用微信小程序【字形绘梦】免费生成。
-fuqifai.github.io
+![](/img/小程序码.png)
+
+AIGC技术讨论群
+![](/img/RA群永久二维码.png)
 
 作为WebRTC的三大模块之一，DataChannel支持短消息（short message）二进制和文本数据的传输，因此，对于通常以传输音视频为主的WebRTC来说，当需要传输音视频以外的数据的时候就有很大用处了。 `DataChannel`看起来和`Websocket`实现的功能很相似。DataChannel模型最初是基于webSocket建立的，具有简单可设置的send方法和onMessage方法。
 

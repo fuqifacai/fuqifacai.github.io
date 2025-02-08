@@ -11,7 +11,13 @@ tags:
 ---
 
 [访问 2img.ai 官网以获取更多AI/AIGC信息](https://2img.ai)
-小红书关注我 ![](/img/a.jpg)
+[访问 个人技术博客: fuqifai.github.io](https://fuqifai.github.io)
+
+本文大部分配图使用微信小程序【字形绘梦】免费生成。
+![](/img/小程序码.png)
+
+AIGC技术讨论群
+![](/img/RA群永久二维码.png)
 
 1）VAE 简介
 VAE 全称 Variational Auto Encoder （变分自编码器），是 stable diffusion 整个模型算法的组成部分之一，位于运作流程的末端，作用是让 stable diffusion 生成的图像颜色更鲜艳、细节更锐利；同时也能在一定程度上改善局部细节的生成质量，如手部、服装、脸部等，我们可以简单地把它理解为一种“滤镜”。

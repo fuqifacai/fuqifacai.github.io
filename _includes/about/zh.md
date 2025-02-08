@@ -36,10 +36,14 @@ Unigine引擎(全球三强之一的引擎)，云渲染系统(WebRTC)等产品的
 
 [基于webrtc的青龙云渲染系统](https://www.shxcj.com/archives/category/allinovation/innovation)
 
-[字形绘梦微信AIGC小程序](https://www.shxcj.com/archives/category/allinovation/phototalk)
+
 
 # 媒体关注
-[Paragoger衍生者训练营](https://www.2img.ai)
+[字形绘梦微信AIGC小程序](https://www.shxcj.com/archives/category/allinovation/phototalk)
+![](/img/小程序码.png)
 
+
+[Paragoger衍生者训练营](https://www.2img.ai)
+![](/img/RA群永久二维码.png)
 
 

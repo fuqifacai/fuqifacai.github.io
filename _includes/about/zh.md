@@ -39,6 +39,14 @@ Unigine引擎(全球三强之一的引擎)，云渲染系统(WebRTC)等产品的
 
 
 # 媒体关注
+
+Unigine中国技术群:315210314
+Paragoger衍生者AIGC训练营:849750845
+WebRTC技术群:539327375
+
+知乎入口: https://www.zhihu.com/people/ramendeus
+CSDN入口: ramendeus.blog.csdn.net
+
 [字形绘梦微信AIGC小程序](https://www.shxcj.com/archives/category/allinovation/phototalk)
 ![](/img/小程序码.png)
 

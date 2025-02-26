@@ -46,9 +46,9 @@ Paragoger衍生者AIGC训练营:849750845
 
 WebRTC技术群:539327375
 
-知乎入口: <href a="https://www.zhihu.com/people/ramendeus">https://www.zhihu.com/people/ramendeus</a>
+知乎入口: <a href="https://www.zhihu.com/people/ramendeus">https://www.zhihu.com/people/ramendeus</a>
 
-CSDN入口: <href a="https://www.zhihu.com/people/ramendeus">ramendeus.blog.csdn.net</a>
+CSDN入口: <a href="https://www.zhihu.com/people/ramendeus">ramendeus.blog.csdn.net</a>
 
 [字形绘梦微信AIGC小程序](https://www.shxcj.com/archives/category/allinovation/phototalk)
 ![](/img/小程序码.png)

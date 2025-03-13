@@ -4,7 +4,7 @@ SEOTitle: 拉达曼迪斯 | Ramendus Studio
 header-img: img/home-bg.jpg
 email: chris@51arena.com
 description: "明月清风谁与共 高山流水少知音"
-keyword: "字形绘梦 Ramendeus 青龙 青仓 AIGC RAG 大模型 C++ 编程 LLM AI Github 福气发财 fuqifacai 上海 马桥 会长 微信小程序 RASD RA Studio"
+keyword: "字形绘梦 Ramendeus Studio Streaming WEbRTC 青龙 青仓 AIGC RAG 大模型 C++ 编程 LLM AI Github AIAgent LLM RASD RA Studio"
 url: "https://www.2img.ai" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -68,8 +68,8 @@ netease_comment: false
 ba_track_id: 8b1795d518a8d03043c4243ee0d96113
 
 # Google Analytics
-ga_track_id: "G-CGLS36Z92J" # Format: UA-xxxxxx-xx
-ga_domain: 2img.ai
+ga_track_id: "G-4GFRPKVKG4" # Format: UA-xxxxxx-xx
+ga_domain: fuqifacai.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.

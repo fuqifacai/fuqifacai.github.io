@@ -61,4 +61,4 @@ WebRTC技术群:539327375
 
 知乎入口: <a href="https://www.zhihu.com/people/ramendeus">https://www.zhihu.com/people/ramendeus</a>
 
-CSDN入口: <a href="https://www.zhihu.com/people/ramendeus">ramendeus.blog.csdn.net</a>
+CSDN入口: <a href="https://ramendeus.blog.csdn.net">ramendeus.blog.csdn.net</a>

@@ -40,6 +40,20 @@ Unigine引擎(全球三强之一的引擎)，云渲染系统(WebRTC)等产品的
 
 # 媒体关注
 
+
+
+[字形绘梦微信AIGC小程序](https://www.shxcj.com/archives/category/allinovation/phototalk)
+![](/img/小程序码.png)
+
+
+
+
+获取更多AIGC免费资料和工具
+包括AI Agent, RGA , AI视频,ComfyUI  等制作工艺
+[Paragoger衍生者训练营](https://www.2img.ai)
+![](/img/RA群永久二维码.png)
+
+
 Unigine中国技术群:315210314
 
 Paragoger衍生者AIGC训练营:849750845
@@ -49,12 +63,3 @@ WebRTC技术群:539327375
 知乎入口: <a href="https://www.zhihu.com/people/ramendeus">https://www.zhihu.com/people/ramendeus</a>
 
 CSDN入口: <a href="https://www.zhihu.com/people/ramendeus">ramendeus.blog.csdn.net</a>
-
-[字形绘梦微信AIGC小程序](https://www.shxcj.com/archives/category/allinovation/phototalk)
-![](/img/小程序码.png)
-
-
-[Paragoger衍生者训练营](https://www.2img.ai)
-![](/img/RA群永久二维码.png)
-
-

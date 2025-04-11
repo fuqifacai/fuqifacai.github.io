@@ -3,11 +3,16 @@ Ramendeus
 # 基础信息
 
 
-南开大学MBA硕士学位
+南开大学MBA,投身于软件研发行业20多年，主攻三维引擎，云渲染，游戏研发，数字孪生，AIGC领域。
 
-投身于软件研发行业20多年，主攻三维引擎，云渲染，游戏研发，数字孪生，AIGC领域。
+E-mail:Chris@51arena.com
 
-Chris@51arena.com
+主打平台
+
+AI图文平台: <a href="https://www.2img.ai">2img.ai</a>
+
+
+AI视频平台: <a href="https://www.2video.cn">2video.cn</a>
 
 
 # 任职经历

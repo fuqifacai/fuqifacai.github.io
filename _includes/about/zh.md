@@ -15,17 +15,6 @@ AI图文平台: <a href="https://www.2img.ai">2img.ai</a>
 AI视频平台: <a href="https://www.2video.cn">2video.cn</a>
 
 
-# 任职经历
-曾任全球最大游戏公司动视暴雪上海分公司CTO
-
-全球顶尖三维引擎Unigine上海技术总监
-
-Garena上海游戏团队Leader
-
-腾讯IEG上海 高级工程师
-
-AvanquestUSA 软件工程师
-
 # 项目背书
 主机游戏使命召唤(COD全球第一FPS游戏)
 
@@ -63,7 +52,3 @@ Unigine中国技术群:315210314
 Paragoger衍生者AIGC训练营:849750845
 
 WebRTC技术群:539327375
-
-知乎入口: <a href="https://www.zhihu.com/people/ramendeus">https://www.zhihu.com/people/ramendeus</a>
-
-CSDN入口: <a href="https://ramendeus.blog.csdn.net">ramendeus.blog.csdn.net</a>

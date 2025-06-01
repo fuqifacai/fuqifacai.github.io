@@ -3,12 +3,6 @@ Co-founder of Ramendeus Studio Co., Ltd.
 Master degree from Nankai University,China.
 Devoted to the software development industry for more than 20 years, focusing on 3D engines, cloud rendering, game development, digital twins, and AIGC.
 
-# Work Experience
-Former CTO of Shanghai Branch of Activision Blizzard(the world's largest game company) 
-Technical Director of Unigine China, the world's top 3D engine
-Leader of the Shanghai game team of Garena, the largest Internet company in Southeast Asia
-Senior Engineer of Tencent IEG Shanghai.
-
 # Project Endorsement
 Design and development of products such as console game Call of Duty (COD, the world's No. 1 FPS game),
 Unigine engine (one of the top three engines in the world), cloud rendering system (WebRTC), and owns patents for multiple products.

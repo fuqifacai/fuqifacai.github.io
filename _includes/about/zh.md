@@ -16,36 +16,34 @@ AI视频平台: <a href="https://www.2video.cn">2video.cn</a>
 
 
 # 项目背书
-主机游戏使命召唤(COD全球第一FPS游戏)
+- 主机游戏使命召唤(COD全球第一FPS游戏)
 
-Unigine引擎(全球三强之一的引擎)，云渲染系统(WebRTC)等产品的设计研发，拥有多个产品的专利。
+- Unigine引擎(全球三强之一的引擎)，云渲染系统(WebRTC)等产品的设计研发，拥有多个产品的专利。
 
-参与过手游雷霆突击(上亿收入)，腾讯天天酷跑手游发行
+- 参与过手游雷霆突击(上亿收入)，腾讯天天酷跑手游发行
 
-对软件研发有独特的见解和执着。在开源领域参与云渲染/远程软件,XDataverse, XInsight等项目
+- 对软件研发有独特的见解和执着。在开源领域参与云渲染/远程软件,XDataverse, XInsight等项目
 
 
-# 技术演讲
-
-[基于webrtc的青龙云渲染系统](https://www.shxcj.com/archives/category/allinovation/innovation)
-
+# 出版书籍
+WebRTC技术揭秘
+<img src="/img/webrtc-book.jpg" width="300" height="400" alt="WebRTC技术揭秘" />
 
 
 # 媒体关注
 
-
-
 [字形绘梦微信AIGC小程序](https://www.shxcj.com/archives/category/allinovation/phototalk)
-![](/img/小程序码.png)
+<img src="/img/小程序码.png" width="300" height="400" alt="字形绘梦微信AIGC小程序" />
 
 
+# 技术演讲
+[基于webrtc的青龙云渲染系统](https://www.shxcj.com/archives/category/allinovation/innovation)
 
 
 获取更多AIGC免费资料和工具
 包括AI Agent, RGA , AI视频,ComfyUI  等制作工艺
 [Paragoger衍生者训练营](https://www.2img.ai)
-![](/img/RA群永久二维码.png)
-
+<img src="/img/RA群永久二维码.png" width="300" height="400" alt="Paragoger衍生者训练营" />
 
 Unigine中国技术群:315210314
 

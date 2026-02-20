@@ -5,10 +5,15 @@ author:       "Ramendeus"
 header-style: text
 catalog:      true
 tags:
-    - RAG
-    - 设计模式
-    - 范式
-    - LLM   
+    - WebRTC
+    - Google
+    - Web Streaming
+    - Remote Meeting
+    - Server side rendering
+    - 云渲染
+    - 远程桌面
+    - Remote Desktop
+    - Audio & Video Framework
 ---
 
 ### 1\. **什么是 Corrective RAG (CRAG)？**
